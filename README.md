@@ -9,7 +9,7 @@ I'm a CS student with a passion for web dev. My goal is to create web applicatio
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+<img align="right" alt="GIF" src="/assets/1.svg" width="250px"/>
 
 <br>
 
