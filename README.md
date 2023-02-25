@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-
 <p align="center">
 I'm a CS student with a passion for web dev. My goal is to create web applications that are scalable, maintainable, and user-friendly, with a focus on providing a seamless user experience. My approach involves continuously exploring and experimenting with new technologies and frameworks to identify optimal solutions for the challenges I encounter.
 </p>
