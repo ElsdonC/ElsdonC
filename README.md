@@ -34,7 +34,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
       <h3 align="left">EarthScope Explorer</h3>
         <br />
         <a target="_blank" href="https://elsdonc-earthscope-explorer.netlify.app/">
-            <img src="" width="100%" alt="EarthScope Explorer"/>
+            <img src="previews/earthscope-explorer.gif" width="100%" alt="EarthScope Explorer"/>
         </a>
         <br />
         <p align="left">
@@ -51,7 +51,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
       <h3 align="left">OOP Tic-tac-toe</h3>
         <br />
         <a target="_blank" href="https://elsdonc-tictactoe.netlify.app/">
-            <img src="" width="100%"  alt="OOP tic-tac-toe"/>
+            <img src="previews/oop-tictactoe.gif" width="100%"  alt="OOP tic-tac-toe"/>
         </a>
         <br />
         <p align="left">
