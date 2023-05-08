@@ -6,7 +6,6 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
 
 [![Email: Elsdon Chang](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elsdonc21@gmail.com)](mailto:elsdonc21@gmail.com)
 [![Linkedin: Elsdon Chang](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsdon-chang)](https://www.linkedin.com/in/elsdonc)
-[![Twitter: Elsdon Chang](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/elsdon-chang)](https://twitter.com/elsdon_chang)
 
 ---
     
