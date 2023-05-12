@@ -24,7 +24,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
 
 #
 
-### 🚀 Recent Projects
+<!-- ### 🚀 Recent Projects
 
 <table bordercolor="#66b2b2">
   
@@ -65,4 +65,4 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
     </td>
   </tr>
 
-</table>
+</table> -->
