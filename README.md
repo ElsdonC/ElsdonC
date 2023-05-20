@@ -32,15 +32,15 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
   <td width="50%" valign="top">
   <h3 align="left">Gopher Market</h3>
     <br />
-    <a target="_blank" href="https://gohpermarket.onrender.com/">
-        <img src="previews/oop-tictactoe.gif" width="100%"  alt="Gopher Market Video"/>
+    <a target="_blank" href="https://gophermarket.onrender.com/">
+        <img src="previews/gopher-market.mp4" width="100%"  alt="Gopher Market Video"/>
     </a>
     <br />
     <p align="left">
       <a href="https://github.com/ElsdonC/gopher-market" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>
-      <a href="https://gohpermarket.onrender.com/" target="_blank">
+      <a href="https://gophermarket.onrender.com/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript"/>
       </a>
     </p>
