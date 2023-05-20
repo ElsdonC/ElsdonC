@@ -6,7 +6,6 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
 
 [![Email: Elsdon Chang](https://img.shields.io/badge/-email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:elsdonc21@gmail.com)](mailto:elsdonc21@gmail.com)
 [![Linkedin: Elsdon Chang](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsdon-chang)](https://www.linkedin.com/in/elsdonc)
-[![Twitter: Elsdon Chang](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/elsdon-chang)](https://twitter.com/elsdon_chang)
 
 ---
     
@@ -30,6 +29,23 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
 <table bordercolor="#66b2b2">
   
   <tr>
+  <td width="50%" valign="top">
+  <h3 align="left">Gopher Market</h3>
+    <br />
+    <a target="_blank" href="https://gohpermarket.onrender.com/">
+        <img src="previews/oop-tictactoe.gif" width="100%"  alt="Gopher Market Video"/>
+    </a>
+    <br />
+    <p align="left">
+      <a href="https://github.com/ElsdonC/gopher-market" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="https://gohpermarket.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript"/>
+      </a>
+    </p>
+    <p><strong>Node.js, Express.js, MongoDB, EJS</strong> - full stack web app built for umn gophers marketplace</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">EarthScope Explorer</h3>
         <br />
@@ -47,23 +63,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
         </p>
         <p><strong>JavaScript, NASA API, GELOKY API</strong> - Web App that displays sattelite images from NASA from any location on earth!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">OOP Tic-tac-toe</h3>
-        <br />
-        <a target="_blank" href="https://elsdonc-tictactoe.netlify.app/">
-            <img src="previews/oop-tictactoe.gif" width="100%"  alt="OOP tic-tac-toe"/>
-        </a>
-        <br />
-        <p align="left">
-          <a href="https://github.com/ElsdonC/OOP-tictactoe" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-          <a href="https://elsdonc-tictactoe.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript"/>
-          </a>
-        </p>
-        <p><strong>OOP, Javascript</strong> - Program built using OOP allows for efficient management via encapsulated classes and methods!</p>
-    </td>
+    
   </tr>
 
 </table>
