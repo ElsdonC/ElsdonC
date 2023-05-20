@@ -33,7 +33,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
   <h3 align="left">Gopher Market</h3>
     <br />
     <a target="_blank" href="https://gohpermarket.onrender.com/">
-        <img src="previews/oop-tictactoe.gif" width="100%"  alt="Gopher Market Video"/>
+        <img src="previews/gopher-market.mp4" width="100%"  alt="Gopher Market Video"/>
     </a>
     <br />
     <p align="left">
