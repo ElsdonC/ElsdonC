@@ -33,7 +33,7 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
   <h3 align="left">Gopher Market</h3>
     <br />
     <a target="_blank" href="https://gophermarket.onrender.com/">
-        <img src="previews/gopher-market.mp4" width="100%"  alt="Gopher Market Video"/>
+        <img src="previews/gopher-market.gif" width="100%"  alt="Gopher Market Video"/>
     </a>
     <br />
     <p align="left">
@@ -45,23 +45,6 @@ I'm a Full Stack Software Engineer and college student who is passionate about l
       </a>
     </p>
     <p><strong>Node.js, Express.js, MongoDB, EJS</strong> - full stack web app built for umn gophers marketplace</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">EarthScope Explorer</h3>
-        <br />
-        <a target="_blank" href="https://elsdonc-earthscope-explorer.netlify.app/">
-            <img src="previews/earthscope-explorer.gif" width="100%" alt="EarthScope Explorer"/>
-        </a>
-        <br />
-        <p align="left">
-          <a href="https://github.com/ElsdonC/earthscope-explorer" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>  
-          <a href="https://elsdonc-earthscope-explorer.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, NASA API, GELOKY API</strong> - Web App that displays sattelite images from NASA from any location on earth!</p>
     </td>
     
   </tr>
