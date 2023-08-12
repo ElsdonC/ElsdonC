@@ -1,9 +1,9 @@
 👋 Hello! I'm Elsdon Chang.<br>
 <ul>
-    <li>Undergraduate @ University of Minnesota Twin Cities, BS in Computer Science.</li>
-    <li>Deeply interested in Full Stack Web Development and WebXR/AR technologies.</li>
+    <li>Sophomore @ University of Minnesota Twin Cities, BS in Computer Science.</li>
+    <li>Deeply interested in webdev and AI/ML.</li>
     <li>Project experience with <strong>Javascript</strong>, <strong>Node.js</strong>, <strong>Express</strong>, <strong>React</strong>, <strong>MongoDB</strong> and <strong>PostgreSQL</strong>.</li>
-    <li>Dedicated to continuous learning through projects and internships.</li>
+    <li>Eager to continuously learn and explore software solutions to world problems.</li>
 </ul>
 
 🚀 Feel free to look at my projects below!<br>
