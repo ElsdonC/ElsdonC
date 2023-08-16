@@ -6,5 +6,5 @@
 </ul>
 
 🚀 Feel free to look at my projects below!<br>
-🧑🏻‍💻 Visit my Personal Website: <a href="https://elsdonc.github.io" target="_blank">elsdonc.github.io</a> <br>
+🧑🏻‍💻 Personal Website: <a href="https://elsdonc.github.io" target="_blank">elsdonc.github.io</a> <br>
 ✉️ Contact me here: <a href="mailto:elsdonc21@gmail.com">elsdonc21@gmail.com</a>
