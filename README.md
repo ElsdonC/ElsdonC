@@ -1,6 +1,6 @@
 👋 Hello! I'm Elsdon Chang.<br>
 <ul>
-    <li>Sophomore @ University of Minnesota Twin Cities, BS in Computer Science.</li>
+    <li>BS in Computer Science @ University of Minnesota Twin Cities</li>
     <li>Deeply interested in webdev and AI/ML.</li>
     <li>Eager to continuously learn and explore software to solve problems.</li>
 </ul>
