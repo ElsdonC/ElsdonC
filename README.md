@@ -1,3 +1,6 @@
-🎒Currently pursuing BS in Computer Science @ UMN
+👋 Hi, I'm Elsdon
 <br>
-🤔Learning how to solve problems with software
+<br>
+🧑🏻‍💻 Currently pursuing BS in Computer Science @ UMN
+<br>
+🤔 Learning how to solve problems with software
